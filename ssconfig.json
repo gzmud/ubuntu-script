@@ -2,7 +2,7 @@
 	"server":"my_server_ip",
 	"server_port":12370,
 	"local_port":1080,
-	"password":kkllpp007,
+	"password":abcd98765,
 	"timeout":600,
 	"method":"aes-256-cfb"
 }
